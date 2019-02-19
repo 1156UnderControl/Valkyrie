@@ -116,6 +116,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
+		<Item Name="autos.ctl" Type="VI" URL="../State Machines/autos.ctl"/>
 		<Item Name="Climber.ctl" Type="VI" URL="../State Machines/Climber.ctl"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Valkyrie1Buttons.vi" Type="VI" URL="../Support Code/Valkyrie1Buttons.vi"/>
