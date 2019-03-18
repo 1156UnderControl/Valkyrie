@@ -1,15 +1,5 @@
 [My Computer]
-<<<<<<< HEAD
-My Computer = "10.105.4.90"
-=======
-<<<<<<< HEAD
-My Computer = "10.105.3.211"
-||||||| merged common ancestors
-My Computer = "127.0.0.1"
-=======
-My Computer = "10.105.0.189"
->>>>>>> 9b58117e81c73ed3a672674e6d955c35c5c437b3
->>>>>>> f756d3ec62d4e8308dd516fbccbd3526756ecd8c
+My Computer = "10.5.1.144"
 
 [Target]
 Target = "roboRIO-1156-FRC.local"
