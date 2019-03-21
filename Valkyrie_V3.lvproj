@@ -118,6 +118,7 @@ AddOutputFilter chunkFilter
 		</Item>
 		<Item Name="autos.ctl" Type="VI" URL="../State Machines/autos.ctl"/>
 		<Item Name="Climber.ctl" Type="VI" URL="../State Machines/Climber.ctl"/>
+		<Item Name="Get_Continuous_Angle.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Sensors/navX/Get/Get_Continuous_Angle.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Valkyrie1Buttons.vi" Type="VI" URL="../Support Code/Valkyrie1Buttons.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
